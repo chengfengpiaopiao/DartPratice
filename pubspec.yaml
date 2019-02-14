@@ -1,0 +1,10 @@
+name: Dart
+version: 0.0.1
+description: A sample command-line application
+dependencies:
+  flutter:
+      sdk: flutter
+  css_colors: ^1.0.0
+  test: ^1.5.3
+dev_dependencies:
+#  unittest: any
