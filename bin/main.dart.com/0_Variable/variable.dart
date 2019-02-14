@@ -7,6 +7,9 @@ class VariableTest{
      Object srcObj = "JiangWei";
      print(srcObj);
 
+     dynamic srcDynamic = "laobao";
+     print(srcDynamic);
+
   }
 }
 
