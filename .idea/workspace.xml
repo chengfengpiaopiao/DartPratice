@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a6b884d-94d9-495b-9c00-d7ce7219e76e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/2_DataType/element_data_type.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/2_DataType/refrence_list.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Animal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Monkey.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/cascade_symbol.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/enum_t/Month.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/interface_t/Protocal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/student.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/4_Functions/function_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/main.dart.com/4_Functions/student.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart.com/1_Constant/constant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart.com/1_Constant/constant.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/main.dart.com/dart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart.com/dart.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,8 +29,8 @@
       <file leaf-file-name="dart.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/main.dart.com/dart.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
               <folding>
                 <element signature="e#53#87#0" expanded="true" />
               </folding>
@@ -33,11 +38,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="refrence_list.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/2_DataType/refrence_list.dart">
+      <file leaf-file-name="function_test.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/4_Functions/function_test.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+            <state relative-caret-position="276">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/student.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Animal.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Animal.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Monkey.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Monkey.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Month.dart" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/enum_t/Month.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Protocal.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/interface_t/Protocal.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -55,8 +105,17 @@
         <option value="$PROJECT_DIR$/bin/main.dart.com/0_Variable/variable.dart" />
         <option value="$PROJECT_DIR$/bin/main.dart.com/1_Constant/constant.dart" />
         <option value="$PROJECT_DIR$/bin/main.dart.com/2_DataType/element_data_type.dart" />
-        <option value="$PROJECT_DIR$/bin/main.dart.com/dart.dart" />
         <option value="$PROJECT_DIR$/bin/main.dart.com/2_DataType/refrence_list.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/student.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/cascade_symbol.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/dart.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/4_Functions/function_test.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Personal.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Human.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Animal.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Monkey.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/enum_t/Month.dart" />
+        <option value="$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/interface_t/Protocal.dart" />
       </list>
     </option>
   </component>
@@ -67,10 +126,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1924" />
-    <option name="height" value="1055" />
+    <option name="x" value="318" />
+    <option name="y" value="139" />
+    <option name="width" value="1501" />
+    <option name="height" value="767" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -133,6 +192,36 @@
               <item name="main.dart.com" type="462c0819:PsiDirectoryNode" />
               <item name="2_DataType" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DartPraticeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="main.dart.com" type="462c0819:PsiDirectoryNode" />
+              <item name="3_CascadSymbol" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DartPraticeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="main.dart.com" type="462c0819:PsiDirectoryNode" />
+              <item name="3_CascadSymbol" type="462c0819:PsiDirectoryNode" />
+              <item name="enum_t" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DartPraticeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="main.dart.com" type="462c0819:PsiDirectoryNode" />
+              <item name="3_CascadSymbol" type="462c0819:PsiDirectoryNode" />
+              <item name="interface_t" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DartPraticeDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DartPratice" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="main.dart.com" type="462c0819:PsiDirectoryNode" />
+              <item name="4_Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -148,6 +237,9 @@
     <property name="settings.editor.selected.configurable" value="dart.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\component\RN\Dart\DartPratice\bin\main.dart.com\4_Functions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\component\RN\Dart\bin\main.dart.com" />
     </key>
@@ -443,7 +535,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1924" height="1055" extended-state="0" />
+    <frame x="318" y="139" width="1501" height="767" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -455,12 +547,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.32924107" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32849163" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32784185" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" weight="0.4614525" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1223176" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15822345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -598,20 +690,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/2_DataType/refrence_list.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/cascade_symbol.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/4_Functions/student.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bin/main.dart.com/dart.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="126">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding>
             <element signature="e#53#87#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/2_DataType/refrence_list.dart">
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/4_Functions/function_test.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        <state relative-caret-position="276">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/student.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Animal.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/abstract_t/Monkey.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/enum_t/Month.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/main.dart.com/3_CascadSymbol/interface_t/Protocal.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

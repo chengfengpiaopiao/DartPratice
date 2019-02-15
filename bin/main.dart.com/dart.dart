@@ -3,6 +3,8 @@ import '0_Variable/variable.dart';
 import '1_Constant/constant.dart';
 import '2_DataType/element_data_type.dart';
 import '2_DataType/refrence_list.dart';
+import '3_CascadSymbol/cascade_symbol.dart';
+import '4_Functions/function_test.dart';
 
 void main() {
   print('Hello, World!');
@@ -17,6 +19,10 @@ void main() {
   //testElementDataType();
 
   //testList();
-  testList2();
+  //testList2();
+
+  //testOOP();
+
+  testCanChangeParams();
 }
 
