@@ -1,5 +1,6 @@
 //import 'package:css_colors/css_colors.dart'; //导入包
 import '0_Variable/variable.dart';
+
 void main() {
   print('Hello, World!');
 
@@ -8,4 +9,6 @@ void main() {
    */
   var variableTest = new VariableTest();
   variableTest.testVariable();
+  //testString();
+  testDefaultValue();
 }
